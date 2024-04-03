@@ -1,0 +1,7 @@
+﻿day\par;1;2;3;4;5;6;7
+Temperature (C) ;28;30;30;25;27;31;29
+Wind (m/s);15;10;5;20;17;3;9
+Humidity (%) ;20;30;30;40;35;24;25
+Precipitation (%);0;0;0;5;1;0;0
+Lightning;No;No;No;Yes;No;No;No
+Clouds;Stratus;Stratus;Stratus;Cumulus;Nimbus;Cirrus;Stratus
